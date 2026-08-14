@@ -4,26 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&width=600&height=70&duration=4000&lines=Hey+there!+👋;I'm+Asharful+Khan!;" />
 </h1>
 
-<h3 align="center">
-  Salesforce Full-Stack Developer | Salesforce Admin | Apex | Triggers | LWC | HTML | CSS | JavaScript
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-Full--Stack%20Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce-Admin-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Triggers-Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/LWC-Lightning-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-Developer-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 * 🔭 I’m a **Salesforce Full-Stack Developer at Avanciers Technical India, Noida.**
