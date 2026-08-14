@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/Apex-Developer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Triggers-Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/LWC-Lightning-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-Developer-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-Developer-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-Developer-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -23,13 +26,14 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m a Salesforce full-Stack Developer at **Avanciers Technical India at Noida.**
+* 🔭 I’m a **Salesforce Full-Stack Developer at Avanciers Technical India, Noida.**
 * 🌱 I’m currently learning **Advanced Salesforce Development.**
-* 💻 Working with **Salesforce Admin, Apex, Triggers & LWC.**
+* 💻 Working with **Salesforce Admin, Apex, Triggers, LWC, SOQL & Flow.**
 * ⚡ Interested in building **Salesforce Full-Stack Applications.**
-* 📚 Continuously learning and improving my development skills.
+* 🚀 Passionate about learning and implementing new Salesforce technologies.
+* 📚 Continuously learning and improving my **development and problem-solving skills.**
 * 📫 How to reach me: **[Linktree](https://linktr.ee/asharful_khan)**
-* 😄 Pronouns: **He/Him.**
+* 😄 Pronouns: **He/Him**
 
 ---
 
@@ -65,14 +69,21 @@
 ## ☕ Other Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,vscode,postman,mysql,maven" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-Developer-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-Integration-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-Build%20Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -92,7 +103,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=asharfulkhan01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=asharfulkhan01&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -118,6 +129,10 @@
 <h3 align="center">
   ⭐ Thanks for visiting my profile! ⭐
 </h3>
+
+<p align="center">
+  Keep Learning • Keep Building • Keep Growing 🚀
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
